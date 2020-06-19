@@ -1,0 +1,6 @@
+package com.munkeldev.linkshare
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
